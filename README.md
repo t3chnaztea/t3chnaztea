@@ -1,0 +1,15 @@
+## Tiny tools for home labs
+
+Small, single-purpose utilities I built to run my own setup: a retro arcade cabinet, a TrueNAS/Plex media server, and a rack that needs to stay quiet. All MIT, all documented, all things I actually run daily.
+
+### 🕹️ Batocera / retro arcade
+- **[batocera-toolbox](https://github.com/t3chnaztea/batocera-toolbox)** — Couch-friendly, gamepad-driven utility menu: backup/restore, ROM audit, 1G1R dedup, version-aware BIOS check, shaders, run-ahead, RetroAchievements.
+- **[batocera-holidays](https://github.com/t3chnaztea/batocera-holidays)** — Config-driven seasonal ROM rotation. Un-hides themed games in season so attract-mode shows them, re-hides them after.
+- **[HA-Batocera](https://github.com/t3chnaztea/HA-Batocera)** — Home Assistant integration over MQTT: live gaming, system, and session stats.
+
+### 🖥️ Home server
+- **[dell-ipmi-fan-control](https://github.com/t3chnaztea/dell-ipmi-fan-control)** — Temperature-based IPMI fan control for Dell PowerEdge. Quiet your R-series in a closet.
+- **[plex-preroll-roulette](https://github.com/t3chnaztea/plex-preroll-roulette)** — Weighted-random Plex pre-roll bumpers: occasionally arm a surprise movie intro (FBI warning, feature presentation, countdown).
+
+### 💻 Desktop
+- **[fastfetch-macos-gradient-hud](https://github.com/t3chnaztea/fastfetch-macos-gradient-hud)** — macOS fastfetch HUD with per-cell gradient usage/temp bars, rainbow volume, and now-playing. One cached spawn feeds six live readings.
