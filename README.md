@@ -4,6 +4,7 @@ Small, single-purpose utilities I built to run my own setup: a retro arcade cabi
 
 ### 🕹️ Batocera / retro arcade
 - **[batocera-toolbox](https://github.com/t3chnaztea/batocera-toolbox)** — Couch-friendly, gamepad-driven utility menu: backup/restore, ROM audit, 1G1R dedup, version-aware BIOS check, shaders, run-ahead, RetroAchievements.
+- **[batocera-skills](https://github.com/t3chnaztea/batocera-skills)** — Agent skills + Claude Code plugin for running a Batocera cabinet with a coding agent: SSH ops, ROM/gamelist curation, shaders & bezels, performance tuning, maintenance.
 - **[batocera-holidays](https://github.com/t3chnaztea/batocera-holidays)** — Config-driven seasonal ROM rotation. Un-hides themed games in season so attract-mode shows them, re-hides them after.
 - **[HA-Batocera](https://github.com/t3chnaztea/HA-Batocera)** — Home Assistant integration over MQTT: live gaming, system, and session stats.
 
