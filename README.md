@@ -8,6 +8,9 @@ Small, single-purpose utilities I built to run my own setup: a retro arcade cabi
 - **[batocera-holidays](https://github.com/t3chnaztea/batocera-holidays)** — Config-driven seasonal ROM rotation. Un-hides themed games in season so attract-mode shows them, re-hides them after.
 - **[HA-Batocera](https://github.com/t3chnaztea/HA-Batocera)** — Home Assistant integration over MQTT: live gaming, system, and session stats.
 
+### 🎮 PlayStation
+- **[awesome-psnstats](https://github.com/t3chnaztea/awesome-psnstats)** — Export your PS4/PS5 play history to CSV/JSON and build an AI-ready taste profile: per-game enjoyment scoring, five player traits, and a `preferences.json` an AI agent can use for recommendations. Local-first CLI, NPSSO never leaves your machine (`pipx install awesome-psnstats`).
+
 ### 🖥️ Home server
 - **[dell-ipmi-fan-control](https://github.com/t3chnaztea/dell-ipmi-fan-control)** — Temperature-based IPMI fan control for Dell PowerEdge. Quiet your R-series in a closet.
 - **[plex-preroll-roulette](https://github.com/t3chnaztea/plex-preroll-roulette)** — Weighted-random Plex pre-roll bumpers: occasionally arm a surprise movie intro (FBI warning, feature presentation, countdown).
