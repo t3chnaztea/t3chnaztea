@@ -10,6 +10,7 @@ Small, single-purpose utilities I built to run my own setup: a retro arcade cabi
 
 ### 🎮 PlayStation
 - **[awesome-psnstats](https://github.com/t3chnaztea/awesome-psnstats)** — Export your PS4/PS5 play history to CSV/JSON and build an LLM-ready taste profile (with prompts): per-game enjoyment scoring, five player traits, and a `preferences.json` plus starter prompts for LLM recommendations. Local-first CLI, NPSSO never leaves your machine (`pipx install awesome-psnstats`).
+- **[awesome-psn-skills](https://github.com/t3chnaztea/awesome-psn-skills)** — Agent skills + Claude Code plugin for reading that export with a coding agent: produce/refresh the export, read your taste profile, triage your backlog (return vs drop), and rank your wishlist by what you'll actually finish.
 
 ### 🖥️ Home server
 - **[home-assistant-skills](https://github.com/t3chnaztea/home-assistant-skills)** — Agent skills + Claude Code plugin for running a Home Assistant smart home with a coding agent: SSH/REST connection doctrine, instance mapping, verified automations, price- and LLM-driven triggers.
